@@ -1,0 +1,12 @@
+/world*
+/cache
+/logs
+/versions
+/banned-*.json
+/usercache.json
+/version_history.json
+/permissions.yml
+/ops.json
+/bukkit.yml
+/commands.yml
+.console_history
