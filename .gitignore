@@ -1,2 +1,6 @@
 tmp
 .vscode
+/*/logs
+/*/plugins/*/*
+/*/libraries
+!/*/libraries/plugins
