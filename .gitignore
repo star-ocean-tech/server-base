@@ -2,5 +2,5 @@ tmp
 .vscode
 /*/logs
 /*/plugins/*/*
-/*/libraries
+/*/libraries/*
 !/*/libraries/plugins
