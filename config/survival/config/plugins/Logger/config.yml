@@ -13,9 +13,9 @@
 # Discord Server: https://discord.gg/MfR5mcpVfX
 # Config: 1.8
 Language: en_en
-Server-Name: Server_Name
+Server-Name: survival
 Time-Formatter: yyyy-MM-dd HH:mm:ss
-File-Deletion: 7
+File-Deletion: 360
 Log-to-Files: true
 Staff:
   Enabled: false
@@ -111,13 +111,13 @@ Spy-Features:
     Enable: false
     Message: '&8[&bLogger &8&l| &eAnvil-Spy&8] &7%player% >> %renamed%'
 Database:
-  Enable: false
+  Enable: true
   Type: MySQL
   Host: localhost
   Port: 3306
-  Username: username
-  Password: PassworD
-  Database: database
+  Username: minecraft-logger
+  Password: minecraft
+  Database: minecraft-logger
   Data-Deletion: 7
 SQLite:
   Enable: false
