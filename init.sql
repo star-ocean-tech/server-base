@@ -1,6 +1,6 @@
 start transaction;
 create schema if not exists `minecraft-logger`;
-create schema if not exists `minecraft-logger-velocity`;
+create schema if not exists `minecraft-luckperms`;
 
 create user if not exists 'minecraft-logger' identified with 'caching_sha2_password' by random password;
 

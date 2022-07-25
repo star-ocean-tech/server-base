@@ -117,7 +117,7 @@ Database:
   Port: 3306
   Username: minecraft-logger
   Password: minecraft
-  Database: minecraft-logger-velocity 
+  Database: minecraft-logger-velocity
   Data-Deletion: 360
 SQLite:
   Enable: false
